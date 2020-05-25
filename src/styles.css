@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  height: 1500px;
+  margin: 0px;
+}
+.red {
+  background-color: #ff7979;
+  height: 100px;
+  width: 100%;
+  position: fixed;
+}
+.inline-block {
+  display: inline-block;
+}
+.blue {
+  background-color: #7ed6df;
+  height: 100%;
+  width: 50%;
+}
+.yellow {
+  background-color: #ffcc00;
+  height: 100%;
+  width: 50%;
+}
+.green {
+  background-color: #badc58;
+  position: absolute;
+}
+.text {
+  color: white;
+  font-weight: bold;
+}
